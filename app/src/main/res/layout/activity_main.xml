@@ -43,7 +43,7 @@
             android:text="SELECT DATE"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button"
+            android:id="@+id/btnDatePicker"
             android:backgroundTint="@color/btnBgColor"
             android:textColor="@color/lightGrey"
             android:textStyle="bold"
