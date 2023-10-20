@@ -53,7 +53,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="08/06/1999"
+            android:text=""
             android:textColor="@color/textBlue"
             android:textSize="20sp"
     />
@@ -70,7 +70,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="1316364"
+            android:text=""
             android:textStyle="bold"
             android:textColor="@color/textBlue"
             android:textSize="30sp"
